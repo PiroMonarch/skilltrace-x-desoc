@@ -1,2 +1,2 @@
 # skilltrace-x-desoc
-portotype
+prototype
